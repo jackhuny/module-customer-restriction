@@ -1,5 +1,5 @@
 {
-    "name": "magekey/module-customer-restriction",
+    "name": "jackhuny/module-customer-restriction",
     "description": "Magento 2 Customer Restriction",
     "type": "magento2-module",
     "license": "MIT",
